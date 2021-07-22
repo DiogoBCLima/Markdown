@@ -36,4 +36,13 @@ Aluno | Nome | Idade
 
 ## Links
     
-    Para acessar o link, basta fazer [isso](https://github.com/DiogoBCLima/Markdown).
+    Para acessar o link, basta fazer [isso](https://github.com/DiogoBCLima/Markdown).    
+
+## Quotes
+> quote
+
+## Formato de Código
+```
+printf("Exemplo de Código no formato de Código");
+```
+parâmetro de comparação
